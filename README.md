@@ -9,3 +9,5 @@ Example of visualizations from the presentation:
 ![](/gifs/TheThing_github_example_1.gif)
 
 ![](/gifs/TheThing_github_example_2.gif)
+
+![](/gifs/TheThing_github_example_3.gif)
