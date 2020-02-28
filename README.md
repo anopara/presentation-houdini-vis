@@ -1,6 +1,6 @@
 # Houdini Visualizations
 
-I have received many questions around how I made the visualizations for my presentation "Place like I do! Example-based procedural placements in a dialogue system". Therefore, I decided to share my work files with everyone 😀 
+I have received many questions around how I made the visualizations for my presentation ["Place like I do! Example-based procedural placements in a dialogue system"](https://youtu.be/yED9t2tImog). Therefore, I decided to share my work files with everyone 😀 
 
 I have not anticipated that anyone else will be looking into them except myself, so...  it's a bit messy (I tried to clean up a bit, so you dont feel completely lost!). Anyway, hope it can be educational regardless 😇
 
