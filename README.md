@@ -4,7 +4,7 @@ I have received many questions around how I made the visualizations for my prese
 
 I have not anticipated that anyone else will be looking into them except myself, so...  it's a bit messy (but I tried to clean up and group, so you dont feel completely lost!). Anyway, hope it can be educational regardless 😇
 
-Example of visualizations:
+Example of visualizations from the presentation:
 
 ![](/gifs/TheThing_github_example_1.gif)
 
