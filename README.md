@@ -4,7 +4,7 @@ I have received many questions around how I made the visualizations for my prese
 
 I have not anticipated that anyone else will be looking into them except myself, so...  it's a bit messy (I tried to clean up a bit, so you dont feel completely lost!). Anyway, hope it can be educational regardless 😇
 
-PS: Most of the visualizations were created using Houdini _together_ with video-editing software to compose additional text and etc. So, Houdini files usually contain the animation, but not the full "look" 
+PS: Most of the visualizations were created using Houdini _together_ with video-editing software to compose additional text, background and etc. So, Houdini files contain the animation, but not the full "look" 
 
 Example of visualizations from the presentation:
 
