@@ -2,7 +2,7 @@
 
 I have received many questions around how I made the visualizations for my presentation "Place like I do! Example-based procedural placements in a dialogue system". Therefore, I decided to share my work files with everyone 😀 
 
-I have not anticipated that anyone else will be looking into them except myself, so...  it's a bit messy (but I tried to clean up and group, so you dont feel completely lost!). Anyway, hope it can be useful regardless and you can perhaps learn a trick or two.
+I have not anticipated that anyone else will be looking into them except myself, so...  it's a bit messy (but I tried to clean up and group, so you dont feel completely lost!). Anyway, hope it can be educational regardless 😇
 
 Example of visualizations:
 
